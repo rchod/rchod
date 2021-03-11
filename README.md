@@ -4,9 +4,6 @@
   <img align="left" alt="Rachid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-
-
-
 📈 **My GitHub Stats:**
 
 <p>
@@ -15,6 +12,5 @@
 </p>
 
 ❤️
-
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
