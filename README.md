@@ -1,9 +1,5 @@
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=rchod.rchod) <a href="https://twitter.com/rchod">
-  <img align="left" alt="Rachid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 📈 **My GitHub Stats:**
 
 <p>
