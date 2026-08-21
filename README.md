@@ -1,10 +1,8 @@
-
-
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rchod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchod&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="./profile/stats.svg" alt="rchod GitHub stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="rchod top languages" />
 </p>
 
 ❤️
